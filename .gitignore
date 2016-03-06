@@ -1,0 +1,4 @@
+/.bundle
+/vendor/bundle
+/bin/package_cloud
+/Gemfile.lock
